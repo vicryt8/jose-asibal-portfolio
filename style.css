@@ -1,28 +1,42 @@
 html,body
 {
-    width: 100%;
-    height: 100%;
-    margin: 0px;
-    padding: 0px;
-    overflow-x: hidden; 
-}
-.pink {
-	background-color: pink;
-}
-
-
-.joseAsiboi {
+	background-image: url(/assets/concrete.jpg);	
 	width: 100%;
-	font-size: 28pt;
-	background-color: skyblue;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+	overflow-x: hidden; 
 }
 
-.black {
-	background-color: black;
+.text-large {
+	font-size: 28pt;
+}
+
+.text-aqua {
+	color: #59AAA5;
+}
+
+.img-label {
+	top: 80%;
+	height: 15%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	vertical-align: middle ;
+	background-clip: content-box;
+}
+
+.bg-aqua {
+	background-color: #59AAA5;
 	color: white;
 }
 
-.nav-link-right {
-	-ms-flex: 0 0 300px;
-	flex: 0 0 300px;
+.border-grey {
+	border-color: grey;
+}
+
+.border-3 {
+	border-width: 3px !important;  
+}
+.nav-min-width {
+	width: 300px;
 }

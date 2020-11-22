@@ -1,0 +1,22 @@
+{
+  "name": "jose-asibal-portfolio",
+  "version": "1.0.0",
+  "description": "Jose Asibal Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicryt8/jose-asibal-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vicryt8/jose-asibal-portfolio/issues"
+  },
+  "homepage": "https://github.com/vicryt8/jose-asibal-portfolio#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.3"
+  }
+}

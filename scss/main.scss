@@ -1,0 +1,17 @@
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 641px,
+  md: 769px,
+  lg: 981px,
+  );
+
+$container-max-widths: (
+/*   xs:0, */
+/*   sm: 400px, */
+/*   md: 720px, */
+/*   lg: 642px, */
+/*   xl: 642px, */
+);
+
+@import "../node_modules/bootstrap/scss/bootstrap";
