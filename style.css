@@ -34,10 +34,6 @@ body
 	color: white;
 }
 
-.nav-bar-width {
-	padding-left: calc(100vw - 100%);
-}
-
 .border-grey-3 {
 	border-color: grey;
 	border-width: 3px !important;  
