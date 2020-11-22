@@ -30,11 +30,8 @@ html,body
 	color: white;
 }
 
-.border-grey {
+.border-grey-3 {
 	border-color: grey;
-}
-
-.border-3 {
 	border-width: 3px !important;  
 }
 
