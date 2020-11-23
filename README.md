@@ -13,8 +13,8 @@ Created using Bootstrap.
 
 ### Screenshots
 #### About Me
-![About Me screenshot](assets\aboutme-screencap.png)
+![About Me screenshot](assets/aboutme-screencap.png)
 #### Portfolio
-![Portfolio Screenshot](assets\portfolio-screencap.png)
+![Portfolio Screenshot](assets/portfolio-screencap.png)
 #### Contact Me
-![Contact Me Screenshot](assets\contact-screencap.png)
+![Contact Me Screenshot](assets/contact-screencap.png)
