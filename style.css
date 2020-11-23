@@ -11,7 +11,7 @@ body
 	padding: 0px;
 }
 section {
-	overflow-x: auto;
+	overflow-x: hidden;
 }
 
 .text-large {
